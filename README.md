@@ -57,7 +57,6 @@ See [my website](https://realcesarquintero.com/) for more information!
   <a href="https://github.com/Cesar-Quintero/donut-king" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  gt
   <a href="https://donutking.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>

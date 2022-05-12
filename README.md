@@ -88,7 +88,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Jeffry Oneil Photography</h3>
         <br />
         <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">
-          <img src="https://carelabz.com/wp-content/uploads/2016/02/UnderConst.jpg" width="100%" alt="screenshot for Jeffry Oneil Photography website"/>
+          <img src="images/JefferyOneill.jpg" width="100%" alt="screenshot for Jeffry Oneil Photography website"/>
         </a>
         <br />
         <p align="center">

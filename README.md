@@ -31,15 +31,15 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Coiffeur</h3>
         <br />
         <a target="_blank" href="https://coiffeur.netlify.app/">
-            <img src="https://carelabz.com/wp-content/uploads/2016/02/UnderConst.jpg" width="100%" alt="screenshot for Coiffeur website"/>
+            <img src="images/CoiffeurScreenshot.png" width="100%" alt="screenshot for Coiffeur website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/Coiffeur" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="" target="_blank">
+  <a href="https://coiffeur.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -49,20 +49,20 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Donut King</h3>
         <br />
       <a target="_blank" href="https://donutking.netlify.app/">
-            <img src="https://carelabz.com/wp-content/uploads/2016/02/UnderConst.jpg" width="100%"  alt="screenshot for Donut King website"/>
+            <img src="images/donutKingScreenshot.png" width="100%"  alt="screenshot for Donut King website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/donut-king" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   gt
-  <a href="" target="_blank">
+  <a href="https://donutking.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <!-- <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p> -->
+        <p>Another fully responsive website for an online niche donut shop delivering hand-made donuts to donut enthusiasts.</p>
     </td>
   </tr>
   
@@ -71,36 +71,36 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">RealCesarQuintero.com</h3>
       <br />
         <a target="_blank" href="https://realcesarquintero.com/">
-          <img src="" width="100%" alt="Portfolio"/>
+          <img src="images/scrnsht1.jpeg" width="100%" alt="screenshot for portfolio website"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/Cesar-Quintero-Portfolio-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://realcesarquintero.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Jeffry Oneil Photography</h3>
         <br />
         <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">
-          <img src="https://carelabz.com/wp-content/uploads/2016/02/UnderConst.jpg" width="100%" alt="Matching Cards"/>
+          <img src="https://carelabz.com/wp-content/uploads/2016/02/UnderConst.jpg" width="100%" alt="screenshot for Jeffry Oneil Photography website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/Jeffry-Oneill-Photography" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://jeffryoneilphotography.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>description</p>
+        <p>An online showcase of a collection of photographs by photographer Jeffry Oneill.</p>
     </td>
   </tr>
 </table>

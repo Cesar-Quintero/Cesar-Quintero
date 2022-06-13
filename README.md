@@ -127,6 +127,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=bbb111&style=plastic&logo=heroku"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=bbb111&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/> -->

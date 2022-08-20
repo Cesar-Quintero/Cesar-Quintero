@@ -46,6 +46,27 @@ See [my website](https://realcesarquintero.com/) for more information!
         <p>A fully responsive, beautiful, and modern website for an on-trend full-service salon.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Market List</h3>
+        <br />
+        <a target="_blank" href="https://market-list-grocery-app.herokuapp.com/">
+          <img src="images/MarketListAppScreenshot.png" width="100%" alt="screenshot for Market List Web App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Cesar-Quintero/Market_List_App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://market-list-grocery-app.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>A full-stack web app to create and manage your grocery shopping list.</p>
+    </td>
+  </tr>
+  
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">Donut King</h3>
         <br />
       <a target="_blank" href="https://donutking.netlify.app/">
@@ -63,9 +84,6 @@ See [my website](https://realcesarquintero.com/) for more information!
       </p>
         <p>Another fully responsive website for an online niche donut shop delivering hand-made donuts to donut enthusiasts.</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">RealCesarQuintero.com</h3>
       <br />
@@ -82,24 +100,6 @@ See [my website](https://realcesarquintero.com/) for more information!
   </a>
       </p>
         <p><strong>Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Jeffry Oneil Photography</h3>
-        <br />
-        <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">
-          <img src="images/JefferyOneill.jpg" width="100%" alt="screenshot for Jeffry Oneil Photography website"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Cesar-Quintero/Jeffry-Oneill-Photography" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jeffryoneilphotography.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>An online showcase of a collection of photographs by photographer Jeffry Oneill.</p>
     </td>
   </tr>
 </table>

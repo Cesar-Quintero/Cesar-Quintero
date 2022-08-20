@@ -46,7 +46,7 @@ See [my website](https://realcesarquintero.com/) for more information!
         <p>A fully responsive, beautiful, and modern website for an on-trend full-service salon.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Market List</h3>
+      <h3 align="center">Market List App</h3>
         <br />
         <a target="_blank" href="https://market-list-grocery-app.herokuapp.com/">
           <img src="images/MarketListAppScreenshot.png" width="100%" alt="screenshot for Market List Web App"/>

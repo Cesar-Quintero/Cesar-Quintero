@@ -70,7 +70,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Tea Time</h3>
         <br />
       <a target="_blank" href="https://tea-time-app.netlify.app/">
-            <img src="images/tea-time.png" width="100%"  alt="screenshot for Tea Time web app"/>
+            <img src="https://media3.giphy.com/media/uXvh4rzDlXdM4IfcKh/giphy.gif?cid=790b76116c03bcc40ec90b2bf08cd0dcb5822fe4bd87b591&rid=giphy.gif&ct=g" width="100%"  alt="screenshot for Tea Time web app"/>
         </a>
         <br />
         <p align="center">

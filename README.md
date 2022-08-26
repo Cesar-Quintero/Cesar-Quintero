@@ -31,7 +31,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Coiffeur</h3>
         <br />
         <a target="_blank" href="https://coiffeur.netlify.app/">
-            <img src="images/CoiffeurScreenshot.png" width="100%" alt="screenshot for Coiffeur website"/>
+            <img src="https://media1.giphy.com/media/Kb14oKsTBZ755MVznM/giphy.gif?cid=790b76110eab55d7ad7496457ad220a04dd796803baa37ad&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Coiffeur website"/>
         </a>
         <br />
         <p align="center">

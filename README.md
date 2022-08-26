@@ -67,22 +67,22 @@ See [my website](https://realcesarquintero.com/) for more information!
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Donut King</h3>
+      <h3 align="center">Tea Time</h3>
         <br />
-      <a target="_blank" href="https://donutking.netlify.app/">
-            <img src="images/donutKingScreenshot.png" width="100%"  alt="screenshot for Donut King website"/>
+      <a target="_blank" href="https://tea-time-app.netlify.app/">
+            <img src="images/tea-time.png" width="100%"  alt="screenshot for Tea Time web app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cesar-Quintero/donut-king" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/Tea-Time" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://donutking.netlify.app/" target="_blank">
+  <a href="https://tea-time-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Another fully responsive website for an online niche donut shop delivering hand-made donuts to donut enthusiasts.</p>
+        <p>Fully responsive app that displays tea-brewing-data from a custom built CRUD API using Fetch API</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">RealCesarQuintero.com</h3>

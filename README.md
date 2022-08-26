@@ -49,7 +49,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">Market List App</h3>
         <br />
         <a target="_blank" href="https://market-list-grocery-app.herokuapp.com/">
-          <img src="images/MarketListAppScreenshot.png" width="100%" alt="screenshot for Market List Web App"/>
+          <img src="https://media0.giphy.com/media/Ma6LkaAayDWf6pLIHx/giphy.gif?cid=790b761138376151375e407c8bf14b26f2920095a828b374&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Market List Web App"/>
         </a>
         <br />
         <p align="center">

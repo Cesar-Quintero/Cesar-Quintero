@@ -88,7 +88,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">RealCesarQuintero.com</h3>
       <br />
         <a target="_blank" href="https://realcesarquintero.com/">
-          <img src="images/scrnsht1.jpeg" width="100%" alt="screenshot for portfolio website"/>
+          <img src="https://media1.giphy.com/media/fwE32i09ormDvQxT7S/giphy.gif?cid=790b76111927513665da4414e3e7fc131e571676ba55f3c4&rid=giphy.gif&ct=g" width="100%" alt="screenshot for portfolio website"/>
         </a>
       <br />
         <p align="center">

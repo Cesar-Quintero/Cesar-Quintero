@@ -28,22 +28,22 @@ See [my website](https://realcesarquintero.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coiffeur</h3>
+      <h3 align="center">Shifty</h3>
         <br />
-        <a target="_blank" href="https://coiffeur.netlify.app/">
-            <img src="https://media1.giphy.com/media/Kb14oKsTBZ755MVznM/giphy.gif?cid=790b76110eab55d7ad7496457ad220a04dd796803baa37ad&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Coiffeur website"/>
+        <a target="_blank" href="https://shiftyapp.herokuapp.com/">
+            <img src="https://media3.giphy.com/media/yzxUnl4lETkJVE6y96/giphy.gif?cid=790b761127c8f56677a4a2a98f1c85d5fc70922c0859bfee&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Shifty website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cesar-Quintero/Coiffeur" target="_blank">
+  <a href="https://github.com/Cesar-Quintero/Shifty_App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://coiffeur.netlify.app/" target="_blank">
+  <a href="https://shiftyapp.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>A fully responsive, beautiful, and modern website for an on-trend full-service salon.</p>
+        <p>Full-stack CRUD app. Create an account, choose your availability, request days off, view your taxes and payroll info. Mobile-friendly, easy to use.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Market List App</h3>

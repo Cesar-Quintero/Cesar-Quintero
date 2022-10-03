@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Full-Stack Software Engineer, I am motivated by the power of technology as a tool to help people do amazing thing and create positive change in the world.
+Full-Stack Software Engineer, I am motivated by the power of technology as a tool to help people do amazing things and create positive change in the world.
 
 See [my website](https://realcesarquintero.com/) for more information!
 
@@ -82,7 +82,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Fully responsive app that displays tea-brewing-data from a custom built CRUD API using Fetch API</p>
+        <p>Fully responsive app that displays tea-brewing instructions from a custom built CRUD API using Fetch API</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">RealCesarQuintero.com</h3>

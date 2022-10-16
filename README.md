@@ -25,6 +25,8 @@ See [my website](https://realcesarquintero.com/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Shifty</h3>
         <br />
@@ -61,10 +63,10 @@ See [my website](https://realcesarquintero.com/) for more information!
       </p>
         <p>A full-stack web app to create and manage your grocery shopping list.</p>
     </td>
-
+  </tr>
   
-
-  <td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Tea Time</h3>
         <br />
       <a target="_blank" href="https://tea-time-app.netlify.app/">
@@ -99,7 +101,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       </p>
         <p><strong>Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-  
+  </tr>
 </table>
 
 

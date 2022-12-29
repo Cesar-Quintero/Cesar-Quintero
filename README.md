@@ -30,7 +30,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Shifty</h3>
         <br />
-        <a target="_blank" href="https://shiftyapp.herokuapp.com/">
+        <a target="_blank" href="https://shiftyapp.up.railway.app/">
             <img src="https://media3.giphy.com/media/yzxUnl4lETkJVE6y96/giphy.gif?cid=790b761127c8f56677a4a2a98f1c85d5fc70922c0859bfee&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Shifty website"/>
         </a>
         <br />
@@ -39,7 +39,7 @@ See [my website](https://realcesarquintero.com/) for more information!
   <a href="https://github.com/Cesar-Quintero/Shifty_App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://shiftyapp.herokuapp.com/" target="_blank">
+  <a href="https://shiftyapp.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -48,7 +48,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Market List App</h3>
         <br />
-        <a target="_blank" href="https://market-list-grocery-app.herokuapp.com/">
+        <a target="_blank" href="https://market-list-grocery-app.up.railway.app/">
           <img src="https://media0.giphy.com/media/Ma6LkaAayDWf6pLIHx/giphy.gif?cid=790b761138376151375e407c8bf14b26f2920095a828b374&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Market List Web App"/>
         </a>
         <br />
@@ -57,7 +57,7 @@ See [my website](https://realcesarquintero.com/) for more information!
   <a href="https://github.com/Cesar-Quintero/Market_List_App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://market-list-grocery-app.herokuapp.com/" target="_blank">
+  <a href="https://market-list-grocery-app.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -127,7 +127,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=bbb111&style=plastic&logo=heroku"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=RAILWAY&color=bbb111&style=plastic&logo=railway"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=bbb111&style=plastic&logo=postman"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=bbb111&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>

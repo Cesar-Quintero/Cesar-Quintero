@@ -130,6 +130,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=RAILWAY&color=bbb111&style=plastic&logo=railway"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=bbb111&style=plastic&logo=postman"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=bbb111&style=plastic&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JEST&color=bbb111&style=plastic&logo=jest"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>

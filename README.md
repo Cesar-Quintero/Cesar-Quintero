@@ -30,7 +30,7 @@ See [my website](https://realcesarquintero.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Shifty</h3>
         <br />
-        <a target="_blank" href="https://shiftyapp.up.railway.app/">
+        <a target="_blank" href="https://shifty.cyclic.app/">
             <img src="https://media3.giphy.com/media/yzxUnl4lETkJVE6y96/giphy.gif?cid=790b761127c8f56677a4a2a98f1c85d5fc70922c0859bfee&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Shifty website"/>
         </a>
         <br />
@@ -39,7 +39,7 @@ See [my website](https://realcesarquintero.com/) for more information!
   <a href="https://github.com/Cesar-Quintero/Shifty_App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://shiftyapp.up.railway.app/" target="_blank">
+  <a href="https://shifty.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>

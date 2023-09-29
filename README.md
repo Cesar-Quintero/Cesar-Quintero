@@ -46,22 +46,20 @@ See [my website](https://realcesarquintero.com/) for more information!
         <p>Full-stack CRUD app. Create an account, choose your availability, request days off, view your taxes and payroll info. Mobile-friendly, easy to use.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Market List App</h3>
+      <h3 align="center">RighteousWretch.com</h3>
         <br />
-        <a target="_blank" href="https://market-list-app.onrender.com/">
-          <img src="https://media0.giphy.com/media/Ma6LkaAayDWf6pLIHx/giphy.gif?cid=790b761138376151375e407c8bf14b26f2920095a828b374&rid=giphy.gif&ct=g" width="100%" alt="screenshot for Market List Web App"/>
+        <a target="_blank" href="https://www.righteouswretch.com/">
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dicHl4ZW1lNjA4Mng4M3dzbXhvYzQ3Yzg5ZDhoZ2k1Y2Vhc2FjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZUrvO0n8vdddo3hCXV/giphy.gif" width="100%" alt="screenshot for Market List Web App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cesar-Quintero/Market_List_App" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://market-list-app.onrender.com/" target="_blank">
+
+  <a href="https://www.righteouswretch.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>A full-stack web app to create and manage your grocery shopping list.</p>
+        <p>Christian apparel e-commerce platform. Leveraged Shopify for the transformation, with SEO enhancements and custom code implementation to meet the client's unique needs.</p>
     </td>
   </tr>
   

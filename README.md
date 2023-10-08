@@ -162,7 +162,7 @@ See [my website](https://realcesarquintero.com/) for more information!
   <a href="https://angel.co/u/cesar-quintero" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1STxe6ucRXnzJnBXo6Bx0a-ts1xh85jL9/edit?usp=sharing&ouid=111523174681044129288&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1CpT6o3Y50P1w4J5MfiaxAJCcxhry86Rf/edit?usp=sharing&ouid=111523174681044129288&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>

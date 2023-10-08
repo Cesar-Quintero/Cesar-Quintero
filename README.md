@@ -49,7 +49,7 @@ See [my website](https://realcesarquintero.com/) for more information!
       <h3 align="center">RighteousWretch.com</h3>
         <br />
         <a target="_blank" href="https://www.righteouswretch.com/">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dicHl4ZW1lNjA4Mng4M3dzbXhvYzQ3Yzg5ZDhoZ2k1Y2Vhc2FjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZUrvO0n8vdddo3hCXV/giphy.gif" width="100%" alt="screenshot for Market List Web App"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtMHl0N280aWRodjYybmZ4bzFwdnhiN2N2NHZjMDJ4dGVkbjI3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1g8q0CsXijTKktUgaT/giphy.gif" width="100%" alt="screenshot for Market List Web App"/>
         </a>
         <br />
         <p align="center">
